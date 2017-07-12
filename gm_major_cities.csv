@@ -1,0 +1,207 @@
+city,city_ascii,lat,lng,pop,country,iso2,iso3,province
+Sunyani,Sunyani,7.335998991,-2.336003416,70299,Ghana,GH,GHA,Brong Ahafo
+Tamale,Tamale,9.400419738,-0.83998519,342871,Ghana,GH,GHA,Northern
+Yendi,Yendi,9.433725198,-0.016650433,30841.5,Ghana,GH,GHA,Northern
+Bolgatanga,Bolgatanga,10.79038658,-0.84998458,68303.5,Ghana,GH,GHA,Upper East
+Bawku,Bawku,11.06039593,-0.239995973,65212,Ghana,GH,GHA,Upper East
+Wa,Wa,10.06040529,-2.500013063,76891.5,Ghana,GH,GHA,Upper West
+Obuasi,Obuasi,6.190408955,-1.659986818,158986.5,Ghana,GH,GHA,Ashanti
+Berekum,Berekum,7.450383727,-2.59000757,36484.5,Ghana,GH,GHA,Brong Ahafo
+Winneba,Winneba,5.350434386,-0.630049684,41911,Ghana,GH,GHA,Central
+Cape Coast,Cape Coast,5.11037152,-1.249986004,139265.5,Ghana,GH,GHA,Central
+Nkawkaw,Nkawkaw,6.550464497,-0.780014691,54914.5,Ghana,GH,GHA,Eastern
+Koforidua,Koforidua,6.090415058,-0.260020591,126459.5,Ghana,GH,GHA,Eastern
+Tema,Tema,5.640365009,0.010014606,184969.5,Ghana,GH,GHA,Greater Accra
+Ho,Ho,6.600409769,0.46998653,81521,Ghana,GH,GHA,Volta
+Kumasi,Kumasi,6.689990864,-1.630014487,1468575.5,Ghana,GH,GHA,Ashanti
+Sekondi,Sekondi,4.943275776,-1.704015138,212560,Ghana,GH,GHA,Western
+Accra,Accra,5.550034606,-0.21671574,2042132,Ghana,GH,GHA,Greater Accra
+Vicente Guerrero,Vicente Guerrero,30.76405113,-116.0092603,7294.5,Mexico,MX,MEX,Baja California
+Loreto,Loreto,26.01333335,-111.3516635,10760.5,Mexico,MX,MEX,Baja California Sur
+Ciudad Constitucion,Ciudad Constitucion,25.04000775,-111.6599909,37605.5,Mexico,MX,MEX,Baja California Sur
+Allende,Allende,28.32998781,-100.8499789,18268.5,Mexico,MX,MEX,Coahuila
+Nueva Rosita,Nueva Rosita,27.94995933,-101.2199821,35746.5,Mexico,MX,MEX,Coahuila
+Hidalgo del Parral,Hidalgo del Parral,26.93335472,-105.6666358,102573,Mexico,MX,MEX,Chihuahua
+Ascension,Ascension,31.10002545,-107.979983,10761,Mexico,MX,MEX,Chihuahua
+Gomez Palacio,Gomez Palacio,25.57005292,-103.5000238,313952.5,Mexico,MX,MEX,Durango
+Canatlan,Canatlan,24.51998781,-104.7799974,7806.5,Mexico,MX,MEX,Durango
+Villa Union,Villa Union,23.19999086,-106.2300381,14563,Mexico,MX,MEX,Sinaloa
+Altata,Altata,24.63604509,-107.9162153,750,Mexico,MX,MEX,Sinaloa
+Esperanza,Esperanza,27.58000775,-109.9299931,3836,Mexico,MX,MEX,Sonora
+Magdalena,Magdalena,30.61661826,-111.0499506,13402,Mexico,MX,MEX,Sonora
+Nacozari Viejo,Nacozari Viejo,30.42001528,-109.6499844,11872,Mexico,MX,MEX,Sonora
+Villanueva,Villanueva,22.35001691,-102.88001,9093.5,Mexico,MX,MEX,Zacatecas
+Montemorelos,Montemorelos,25.1899986,-99.83998885,40167,Mexico,MX,MEX,Nuevo León
+Sabinas Hidalgo,Sabinas Hidalgo,26.51002138,-100.1799681,26122.5,Mexico,MX,MEX,Nuevo León
+Cardenas,Cardenas,22.00001243,-99.66999923,15331,Mexico,MX,MEX,San Luis Potosí
+Ciudad Valles,Ciudad Valles,21.97998781,-99.02001306,112234,Mexico,MX,MEX,San Luis Potosí
+Rio Verde,Rio Verde,21.92999086,-99.98000615,59233.5,Mexico,MX,MEX,San Luis Potosí
+Ciudad Mante,Ciudad Mante,22.73335268,-98.95001734,78299.5,Mexico,MX,MEX,Tamaulipas
+Reynosa,Reynosa,26.07999595,-98.30003117,458997,Mexico,MX,MEX,Tamaulipas
+Ciudad Madero,Ciudad Madero,22.31890769,-97.836106,165411.5,Mexico,MX,MEX,Tamaulipas
+Autlan,Autlan,19.77001935,-104.3699966,44912,Mexico,MX,MEX,Jalisco
+Ciudad Hidalgo,Ciudad Hidalgo,19.67997316,-100.569996,59573.5,Mexico,MX,MEX,Michoacán
+Apatzingan,Apatzingan,19.07998395,-102.3500165,92616.5,Mexico,MX,MEX,Michoacán
+Santiago Ixcuintla,Santiago Ixcuintla,21.81999758,-105.2200481,17077.5,Mexico,MX,MEX,Nayarit
+Juchitan,Juchitan,16.42999066,-95.01999882,62254.5,Mexico,MX,MEX,Oaxaca
+Miahuatlan,Miahuatlan,16.32999676,-96.60000574,16661.5,Mexico,MX,MEX,Oaxaca
+Atlixco,Atlixco,18.90002077,-98.44999618,91866.5,Mexico,MX,MEX,Puebla
+Acatlan,Acatlan,18.19996014,-98.04999475,17585.5,Mexico,MX,MEX,Puebla
+Paraiso,Paraiso,18.40002545,-93.22997888,14167.5,Mexico,MX,MEX,Tabasco
+Balancan,Balancan,17.79995872,-91.52997929,7666.5,Mexico,MX,MEX,Tabasco
+Tlaxcala,Tlaxcala,19.31999514,-98.2300096,296836.5,Mexico,MX,MEX,Tlaxcala
+Irapuato,Irapuato,20.67001609,-101.4999909,339554,Mexico,MX,MEX,Guanajuato
+Celaya,Celaya,20.53002464,-100.8000078,344799,Mexico,MX,MEX,Guanajuato
+Chilpancingo,Chilpancingo,17.54997398,-99.5000096,173818.5,Mexico,MX,MEX,Guerrero
+Iguala,Iguala,18.37000144,-99.53998133,110641.5,Mexico,MX,MEX,Guerrero
+Tecpan,Tecpan,17.24999229,-100.6799893,14638,Mexico,MX,MEX,Guerrero
+Atoyac,Atoyac,17.19999534,-100.4300304,19798,Mexico,MX,MEX,Guerrero
+Nezahualcoyotl,Nezahualcoyotl,19.41001548,-99.02998661,929681.5,Mexico,MX,MEX,México
+San Juan del Rio,San Juan del Rio,20.37998212,-100.0000308,132866,Mexico,MX,MEX,Querétaro
+Jaltipan,Jaltipan,17.93997601,-94.73999007,66998,Mexico,MX,MEX,Veracruz
+Orizaba,Orizaba,18.85002382,-97.12999923,238340.5,Mexico,MX,MEX,Veracruz
+Xalapa,Xalapa,19.52998232,-96.91998621,438667,Mexico,MX,MEX,Veracruz
+Nautla,Nautla,20.21658124,-96.78335372,2653.5,Mexico,MX,MEX,Veracruz
+San Cristobal de Las Casas,San Cristobal de Las Casas,16.74999697,-92.63337447,157828.5,Mexico,MX,MEX,Chiapas
+Escuintla,Escuintla,15.33000612,-92.62998967,58313.5,Mexico,MX,MEX,Chiapas
+Motul,Motul,21.09998985,-89.27998743,21181,Mexico,MX,MEX,Yucatán
+Tekax,Tekax,20.1999931,-89.27998743,20577,Mexico,MX,MEX,Yucatán
+Peto,Peto,20.12997154,-88.91998356,12924,Mexico,MX,MEX,Yucatán
+Halacho,Halacho,20.47997601,-90.08001612,8116,Mexico,MX,MEX,Yucatán
+San Quintin,San Quintin,30.48373232,-115.9499874,5433,Mexico,MX,MEX,Baja California
+Punta Prieta,Punta Prieta,28.93369773,-114.1665821,527,Mexico,MX,MEX,Baja California
+San Felipe,San Felipe,31.02411277,-114.8496153,18068,Mexico,MX,MEX,Baja California
+Santa Rosalia,Santa Rosalia,27.31707806,-112.2833637,11110,Mexico,MX,MEX,Baja California Sur
+Guerrero Negro,Guerrero Negro,27.99042198,-114.1699669,13054,Mexico,MX,MEX,Baja California Sur
+Piedras Negras,Piedras Negras,28.70763918,-100.5316521,137295,Mexico,MX,MEX,Coahuila
+San Pedro de las Colonias,San Pedro de las Colonias,25.7592145,-102.9826911,53688,Mexico,MX,MEX,Coahuila
+Sierra Mojada,Sierra Mojada,27.28757082,-103.2871945,10,Mexico,MX,MEX,Coahuila
+Parras,Parras,25.42039797,-102.1799494,23714,Mexico,MX,MEX,Coahuila
+Cuauhtemoc,Cuauhtemoc,28.42574424,-106.8695856,84967.5,Mexico,MX,MEX,Chihuahua
+Nuevo Casas Grandes,Nuevo Casas Grandes,30.41849082,-107.9118993,53091,Mexico,MX,MEX,Chihuahua
+Ojinaga,Ojinaga,29.54040489,-104.41002,19804.5,Mexico,MX,MEX,Chihuahua
+Villa Ahumada,Villa Ahumada,30.61044293,-106.5099952,8213.5,Mexico,MX,MEX,Chihuahua
+Santa Barbara,Santa Barbara,26.80044293,-105.8200373,8413.5,Mexico,MX,MEX,Chihuahua
+Ciudad Camargo,Ciudad Camargo,27.69041445,-105.1700511,35904.5,Mexico,MX,MEX,Chihuahua
+Cuencame,Cuencame,24.8704057,-103.6999858,5416,Mexico,MX,MEX,Durango
+Papasquiaro,Papasquiaro,24.83040814,-105.3399891,11635.5,Mexico,MX,MEX,Durango
+Escuinapa,Escuinapa,22.85042564,-105.7999868,28248,Mexico,MX,MEX,Sinaloa
+Guamuchil,Guamuchil,25.47036908,-108.0900021,60985.5,Mexico,MX,MEX,Sinaloa
+Guasave,Guasave,25.57049217,-108.4699789,82654.5,Mexico,MX,MEX,Sinaloa
+El Fuerte,El Fuerte,26.42041445,-108.6199956,8326.5,Mexico,MX,MEX,Sinaloa
+Eldorado,Eldorado,24.3304645,-107.3699943,15750.5,Mexico,MX,MEX,Sinaloa
+La Cruz,La Cruz,23.92041201,-106.900023,11527.5,Mexico,MX,MEX,Sinaloa
+Agua Prieta,Agua Prieta,31.32233746,-109.5630388,77264.5,Mexico,MX,MEX,Sonora
+Ciudad Obregon,Ciudad Obregon,27.46660382,-109.9249805,273082,Mexico,MX,MEX,Sonora
+Navajoa,Navajoa,27.08189862,-109.4546216,116093,Mexico,MX,MEX,Sonora
+Caborca,Caborca,30.71614707,-112.1642495,55126.5,Mexico,MX,MEX,Sonora
+Mazatlán,Mazatlan,29.01710349,-110.1333399,469217,Mexico,MX,MEX,Sonora
+Cananea,Cananea,30.99041974,-110.3000481,28625.5,Mexico,MX,MEX,Sonora
+Huatabampo,Huatabampo,26.83041526,-109.6300373,27744.5,Mexico,MX,MEX,Sonora
+Zacatecas,Zacatecas,22.77043052,-102.5800025,176521.5,Mexico,MX,MEX,Zacatecas
+Juan Aldama,Juan Aldama,24.29041526,-103.3899789,13117.5,Mexico,MX,MEX,Zacatecas
+Valparaiso,Valparaiso,22.77043052,-103.5699679,7956.5,Mexico,MX,MEX,Zacatecas
+Fresnillo,Fresnillo,23.17043194,-102.8599854,102629.5,Mexico,MX,MEX,Zacatecas
+Linares,Linares,24.86038047,-99.57003117,52349.5,Mexico,MX,MEX,Nuevo León
+Matehuala,Matehuala,23.6603762,-100.6500169,63624.5,Mexico,MX,MEX,San Luis Potosí
+Tamuin,Tamuin,21.98037539,-98.7500037,11076.5,Mexico,MX,MEX,San Luis Potosí
+Tamazunchale,Tamazunchale,21.27041872,-98.7799502,47108.5,Mexico,MX,MEX,San Luis Potosí
+Tula,Tula,23.00039064,-99.71999618,4683,Mexico,MX,MEX,Tamaulipas
+Aldama,Aldama,22.92042137,-98.06996769,11367,Mexico,MX,MEX,Tamaulipas
+San Fernando,San Fernando,24.85043276,-98.16001388,25596,Mexico,MX,MEX,Tamaulipas
+Tecoman,Tecoman,18.92038129,-103.8799748,85450,Mexico,MX,MEX,Colima
+Puerto Vallarta,Puerto Vallarta,20.67709576,-105.2449819,183969,Mexico,MX,MEX,Jalisco
+La Barca,La Barca,20.28037579,-102.5600037,34897,Mexico,MX,MEX,Jalisco
+Ciudad Guzman,Ciudad Guzman,19.71041058,-103.4600004,90480,Mexico,MX,MEX,Jalisco
+Lagos de Moreno,Lagos de Moreno,21.37041262,-101.9299905,89402,Mexico,MX,MEX,Jalisco
+Morelia,Morelia,19.73338076,-101.189493,618551.5,Mexico,MX,MEX,Michoacán
+Lazaro Cardenas,Lazaro Cardenas,17.95870872,-102.199974,122044,Mexico,MX,MEX,Michoacán
+Zamora,Zamora,19.98036826,-102.2800208,169931.5,Mexico,MX,MEX,Michoacán
+Coalcoman,Coalcoman,18.78038983,-103.1499677,9687.5,Mexico,MX,MEX,Michoacán
+Uruapan,Uruapan,19.42037661,-102.0700078,250919.5,Mexico,MX,MEX,Michoacán
+Tuxpan,Tuxpan,21.93040428,-105.2699675,26115,Mexico,MX,MEX,Nayarit
+Tepic,Tepic,21.50539146,-104.8799913,299686.5,Mexico,MX,MEX,Nayarit
+Compostela,Compostela,21.23042116,-104.8999901,15192,Mexico,MX,MEX,Nayarit
+Tecuala,Tecuala,22.40042727,-105.4599817,12752,Mexico,MX,MEX,Nayarit
+Ciudad del Carmen,Ciudad del Carmen,18.65365928,-91.82448019,148751.5,Mexico,MX,MEX,Campeche
+Champoton,Champoton,19.35043256,-90.72000289,25722.5,Mexico,MX,MEX,Campeche
+Salina Cruz,Salina Cruz,16.16706097,-95.19998784,77355.5,Mexico,MX,MEX,Oaxaca
+Puerto Escondido,Puerto Escondido,15.85918031,-97.06588835,15402.5,Mexico,MX,MEX,Oaxaca
+Pochutla,Pochutla,15.73039512,-96.46998784,18779.5,Mexico,MX,MEX,Oaxaca
+Mitla,Mitla,16.91704103,-96.39999211,4313,Mexico,MX,MEX,Oaxaca
+Tlaxiaco,Tlaxiaco,17.27040448,-97.68001734,17999.5,Mexico,MX,MEX,Oaxaca
+Huajuapan de Leon,Huajuapan de Leon,17.81037152,-97.78998478,41766.5,Mexico,MX,MEX,Oaxaca
+Tehuacan,Tehuacan,18.4503583,-97.37998397,239370.5,Mexico,MX,MEX,Puebla
+Teziutlan,Teziutlan,19.82042971,-97.35998519,124307.5,Mexico,MX,MEX,Puebla
+Frontera,Frontera,18.5803762,-92.64998845,15014,Mexico,MX,MEX,Tabasco
+Tenosique,Tenosique,17.48036582,-91.42998539,24949.5,Mexico,MX,MEX,Tabasco
+Salamanca,Salamanca,20.57040977,-101.2000092,168069,Mexico,MX,MEX,Guanajuato
+Guanajuato,Guanajuato,21.02040814,-101.2799785,95282,Mexico,MX,MEX,Guanajuato
+Taxco,Taxco,18.57037681,-99.6199506,53217,Mexico,MX,MEX,Guerrero
+Ayutla,Ayutla,16.90037539,-99.22000086,9897,Mexico,MX,MEX,Guerrero
+Ciudad Altamirano,Ciudad Altamirano,18.32039207,-100.6500169,24533,Mexico,MX,MEX,Guerrero
+Petatlan,Petatlan,17.52041506,-101.2700308,26474,Mexico,MX,MEX,Guerrero
+Pachuca,Pachuca,20.17043418,-98.73003076,310861,Mexico,MX,MEX,Hidalgo
+Toluca,Toluca,19.3303821,-99.66999923,1018440.5,Mexico,MX,MEX,México
+Zumpango,Zumpango,19.81040448,-99.10998173,188994,Mexico,MX,MEX,México
+Minatitlan,Minatitlan,17.9804645,-94.53000289,176398.5,Mexico,MX,MEX,Veracruz
+Coatzacoalcos,Coatzacoalcos,18.12040428,-94.4200096,259001,Mexico,MX,MEX,Veracruz
+Poza Rica de Hidalgo,Poza Rica de Hidalgo,20.55043683,-97.46997848,214503.5,Mexico,MX,MEX,Veracruz
+Cordoba,Cordoba,18.92038129,-96.91998621,177483,Mexico,MX,MEX,Veracruz
+Santiago Tuxtla,Santiago Tuxtla,18.47038291,-95.29998173,13598,Mexico,MX,MEX,Veracruz
+Tuxpam,Tuxpam,20.9604118,-97.40998214,58690,Mexico,MX,MEX,Veracruz
+Panuco,Panuco,22.06044802,-98.18998621,33449.5,Mexico,MX,MEX,Veracruz
+Pijijiapan,Pijijiapan,15.69039756,-93.22003117,19388,Mexico,MX,MEX,Chiapas
+Isla Mujeres,Isla Mujeres,21.20839057,-86.7114549,12491,Mexico,MX,MEX,Quintana Roo
+Felipe Carrillo Puerto,Felipe Carrillo Puerto,19.58039268,-88.04998499,23958,Mexico,MX,MEX,Quintana Roo
+Tizimin,Tizimin,21.13042727,-88.14997888,41322.5,Mexico,MX,MEX,Yucatán
+Valladolid,Valladolid,20.67040367,-88.20000167,44071,Mexico,MX,MEX,Yucatán
+Izamal,Izamal,20.93041363,-89.02005497,14570,Mexico,MX,MEX,Yucatán
+Ticul,Ticul,20.40039431,-89.53002385,30400.5,Mexico,MX,MEX,Yucatán
+Ensenada,Ensenada,31.86997845,-116.6199982,238751,Mexico,MX,MEX,Baja California
+Saltillo,Saltillo,25.41995872,-101.0049823,679286.5,Mexico,MX,MEX,Coahuila
+Ciudad Juárez,Ciudad Juarez,31.69037701,-106.4900481,1343000,Mexico,MX,MEX,Chihuahua
+Delicias,Delicias,28.19996991,-105.4999793,108876,Mexico,MX,MEX,Chihuahua
+Durango,Durango,24.03110292,-104.67003,456368.5,Mexico,MX,MEX,Durango
+Los Mochis,Los Mochis,25.78998781,-108.9999982,231824,Mexico,MX,MEX,Sinaloa
+Ciudad Victoria,Ciudad Victoria,23.71995913,-99.12998051,272411.5,Mexico,MX,MEX,Tamaulipas
+Aguascalientes,Aguascalientes,21.87945992,-102.2904135,763589.5,Mexico,MX,MEX,Aguascalientes
+Manzanillo,Manzanillo,19.04958662,-104.3230851,85236.5,Mexico,MX,MEX,Colima
+Tehuantepec,Tehuantepec,16.32999676,-95.229986,40082.5,Mexico,MX,MEX,Oaxaca
+Villahermosa,Villahermosa,17.99997235,-92.89997319,395482.5,Mexico,MX,MEX,Tabasco
+Cuernavaca,Cuernavaca,18.92110476,-99.23999964,591551.5,Mexico,MX,MEX,Morelos
+Queretaro,Queretaro,20.63001853,-100.3799817,786392.5,Mexico,MX,MEX,Querétaro
+Tapachula,Tapachula,14.89998069,-92.2699858,209741,Mexico,MX,MEX,Chiapas
+Chetumal,Chetumal,18.50001935,-88.29999557,144464.5,Mexico,MX,MEX,Quintana Roo
+Progreso,Progreso,21.28331199,-89.66657882,33892.5,Mexico,MX,MEX,Yucatán
+Cabo San Lucas,Cabo San Lucas,22.89275617,-109.9045164,39492.5,Mexico,MX,MEX,Baja California Sur
+Monclova,Monclova,26.89999758,-101.4199958,216004,Mexico,MX,MEX,Coahuila
+Ometepec,Ometepec,16.68005292,-98.42002385,24036,Mexico,MX,MEX,Guerrero
+Cozumel,Cozumel,20.51000002,-86.95000045,67634,Mexico,MX,MEX,Quintana Roo
+Mexicali,Mexicali,32.64998252,-115.4800161,736138.5,Mexico,MX,MEX,Baja California
+La Paz,La Paz,24.13995933,-110.3199952,180626,Mexico,MX,MEX,Baja California Sur
+Torreon,Torreon,25.57005292,-103.4200029,834033,Mexico,MX,MEX,Coahuila
+Culiacan,Culiacan,24.82999473,-107.3799679,695734.5,Mexico,MX,MEX,Sinaloa
+Nogales,Nogales,31.30500002,-110.9449958,99402,Mexico,MX,MEX,Sonora
+Hermosillo,Hermosillo,29.09888145,-110.954065,554373,Mexico,MX,MEX,Sonora
+Guaymas,Guaymas,27.93001223,-110.8899862,84496.5,Mexico,MX,MEX,Sonora
+San Luis Potosi,San Luis Potosi,22.16997622,-100.9999956,834852,Mexico,MX,MEX,San Luis Potosí
+Matamoros,Matamoros,25.87998232,-97.50000248,451394.5,Mexico,MX,MEX,Tamaulipas
+Nuevo Laredo,Nuevo Laredo,27.4999868,-99.55000655,255152.5,Mexico,MX,MEX,Tamaulipas
+Colima,Colima,19.22997479,-103.7200104,175261,Mexico,MX,MEX,Colima
+Campeche,Campeche,19.82998985,-90.49999048,204048.5,Mexico,MX,MEX,Campeche
+Oaxaca,Oaxaca,17.08268984,-96.66994979,396647,Mexico,MX,MEX,Oaxaca
+Leon,Leon,21.1499868,-101.7000304,1301313,Mexico,MX,MEX,Guanajuato
+Tijuana,Tijuana,32.50001752,-117.079996,1464728.5,Mexico,MX,MEX,Baja California
+Chihuahua,Chihuahua,28.64498151,-106.0849823,750633.5,Mexico,MX,MEX,Chihuahua
+Mazatlan,Mazatlan,23.22110069,-106.4200007,361460.5,Mexico,MX,MEX,Sinaloa
+Tampico,Tampico,22.30001996,-97.87000574,578351.5,Mexico,MX,MEX,Tamaulipas
+Acapulco,Acapulco,16.84999086,-99.91597905,683860,Mexico,MX,MEX,Guerrero
+Veracruz,Veracruz,19.17734235,-96.15998092,573638,Mexico,MX,MEX,Veracruz
+Tuxtla Gutierrez,Tuxtla Gutierrez,16.74999697,-93.1500096,473719,Mexico,MX,MEX,Chiapas
+Cancun,Cancun,21.16995974,-86.83000777,489452.5,Mexico,MX,MEX,Quintana Roo
+Merida,Merida,20.96663881,-89.61663355,841087.5,Mexico,MX,MEX,Yucatán
+Guadalajara,Guadalajara,20.67001609,-103.3300342,2919294.5,Mexico,MX,MEX,Jalisco
+Puebla,Puebla,19.04995994,-98.20003727,1793549.5,Mexico,MX,MEX,Puebla
+Monterrey,Monterrey,25.66999514,-100.3299848,2417437,Mexico,MX,MEX,Nuevo León
+Mexico City,Mexico City,19.44244244,-99.1309882,14919501,Mexico,MX,MEX,Distrito Federal
