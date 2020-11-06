@@ -1,4 +1,5 @@
 import folium
+import json
 import pandas
 
 data = pandas.read_csv("gm_major_cities.csv")
@@ -31,8 +32,8 @@ for lt, ln, ci, co in zip(lat,lon,city, country):
 
 population_fg = folium.FeatureGroup(name = 'Population')
 
-population_fg.add_child(folium.GeoJson(
-    data = open('world.json', 'r', encoding = 'utf-8-sig'),
+population_fg.add_child(folium.GeoJson(data = json.load(open('world.json', 'r',
+    encoding = 'utf-8-sig')),
     style_function = lambda x: {'fillColor':'green' if x['properties']['POP2005'] < 10000000
         else 'orange' if 10000000 <= x['properties']['POP2005'] < 20000000 else 'red'}))
 
